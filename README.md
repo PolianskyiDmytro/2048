@@ -5,6 +5,7 @@ A simple and clean recreation of the popular 2048 game, built using pure JavaScr
 ## 🚀 Features
 - Smooth tile movement and merging logic
 - Responsive keyboard controls
+- Responsive touch controls for mobile
 - Score tracking system
 - Clean and modular code structure
 - No dependencies – 100% vanilla JS
