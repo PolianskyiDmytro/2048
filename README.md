@@ -20,3 +20,18 @@ This project was created to practice writing clean, maintainable JavaScript and 
 
 ## 🌐 Live Demo
 [Play 2048 Online](https://polianskyidmytro.github.io/2048/)
+
+## 🚀 Getting Started
+
+### 📥 Clone the repository
+git clone https://github.com/your-username/project-name.git
+cd project-name
+
+### 📦 Install dependencies
+npm install
+# or
+yarn install
+### ▶️ Run the project locally
+npm start
+# or
+yarn start
