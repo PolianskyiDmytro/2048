@@ -25,6 +25,7 @@ This project was created to practice writing clean, maintainable JavaScript and 
 
 ### 📥 Clone the repository
 git clone https://polianskyidmytro.github.io/2048/
+
 cd 2048
 
 ### 📦 Install dependencies
