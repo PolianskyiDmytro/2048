@@ -17,3 +17,6 @@ A simple and clean recreation of the popular 2048 game, built using pure JavaScr
 
 ## 🎯 Purpose
 This project was created to practice writing clean, maintainable JavaScript and to better understand game logic, state management, and DOM manipulation.
+
+## 🌐 Live Demo
+[Play 2048 Online](https://polianskyidmytro.github.io/2048/)
