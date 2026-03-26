@@ -1,4 +1,19 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://PolianskyiDmytro.github.io/2048/)
+# 2048 – Vanilla JavaScript Recreation
+
+A simple and clean recreation of the popular 2048 game, built using pure JavaScript without any frameworks or libraries.
+
+## 🚀 Features
+- Smooth tile movement and merging logic
+- Responsive keyboard controls
+- Responsive touch controls for mobile
+- Score tracking system
+- Clean and modular code structure
+- No dependencies – 100% vanilla JS
+
+## 🛠️ Tech Stack
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+## 🎯 Purpose
+This project was created to practice writing clean, maintainable JavaScript and to better understand game logic, state management, and DOM manipulation.
